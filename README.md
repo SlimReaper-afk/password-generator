@@ -2,6 +2,10 @@
 
 Gerador de senhas fortes em Python, com interface web (Flask) e modo linha de comando. A aleatoriedade vem do módulo `secrets`, próprio para uso criptográfico.
 
+## Prévia
+
+![Prévia da interface](preview.png)
+
 ## Recursos
 
 - Aleatoriedade criptograficamente segura com `secrets`
